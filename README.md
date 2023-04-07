@@ -1,4 +1,4 @@
-# Wind energy prediction
+# Wind energy prediction demo
 
 ## Summary
 
